@@ -1,4 +1,5 @@
-# [Umbraco CMS](https://umbraco.com) &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](../LICENSE.md) [![Build status](https://umbraco.visualstudio.com/Umbraco%20Cms/_apis/build/status/Cms%208%20Continuous?branchName=v8/dev)](https://umbraco.visualstudio.com/Umbraco%20Cms/_build?definitionId=75) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md) [![pullreminders](https://pullreminders.com/badge.svg)](https://pullreminders.com?ref=badge)
+# [Umbraco CMS](https://umbraco.com) &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](../LICENSE.md) [![Build status](https://umbraco.visualstudio.com/Umbraco%20Cms/_apis/build/status/Cms%208%20Continuous?branchName=v8/dev)](https://umbraco.visualstudio.com/Umbraco%20Cms/_build?definitionId=75) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md) [![pullreminders](https://pullreminders.com/badge.svg)](https://pullreminders.com?ref=badge)[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fivoschyk-cs%2FUmbraco-CMS.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fivoschyk-cs%2FUmbraco-CMS?ref=badge_shield)
+
 
 Umbraco is the friendliest, most flexible and fastest growing ASP.NET CMS, and used by more than 500,000 websites worldwide. Our mission is to help you deliver delightful digital experiences by making Umbraco friendly, simpler and social.
 
@@ -38,3 +39,7 @@ Besides "Our", we all support each other also via Twitter: [Umbraco HQ](https://
 
 Umbraco is contribution-focused and community-driven. If you want to contribute back to the Umbraco source code, please check out our [guide to contributing](CONTRIBUTING.md).
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fivoschyk-cs%2FUmbraco-CMS.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fivoschyk-cs%2FUmbraco-CMS?ref=badge_large)
